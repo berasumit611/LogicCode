@@ -6,6 +6,7 @@ This repository contains a collection of Java programs demonstrating various log
 
 ` String `
 - Java Program to count the total number of characters in a string => [code](https://github.com/berasumit611/LogicCode/blob/main/LogicCode/src/main/java/stringProgram/CharacterCounter.java)
+- Java Program to count the total number of vowels and consonants in a string => [code](https://github.com/berasumit611/LogicCode/blob/main/LogicCode/src/main/java/stringProgram/VowelConsonantCounter.java)
 
 
 
