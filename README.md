@@ -5,7 +5,7 @@ This repository contains a collection of Java programs demonstrating various log
 ## Contents
 
 ` String `
-- Java Program to count the total number of characters in a string => [code](CharcterCounter.java)
+- Java Program to count the total number of characters in a string => [code](https://github.com/berasumit611/LogicCode/blob/main/LogicCode/src/main/java/stringProgram/CharacterCounter.java)
 
 
 
